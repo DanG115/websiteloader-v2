@@ -7,30 +7,44 @@ A customisable loading screen. Created by using HTML, CSS & JS
 ## Table of Contents
 
 - [Description](#description)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Description
+Create a highly customisable loading screen for your web application by leveraging the power of HTML, CSS, and JavaScript. This loading screen is designed to be visually appealing and user-friendly, with options to easily modify its appearance to suit your brand. Utilizing HTML for structure, CSS for styling, and JavaScript for dynamic behavior, the loading screen includes customizable elements such as background color, loading animation, and text content. 
 
-The QuickHTML Extension is a powerful tool designed to enhance the web design experience within Visual Studio Code. It provides a set of features that simplify the process of setting up and organizing web development projects.
+# Installation
 
-## Features
+1. **Download the Repository:**
+   - Visit the GitHub repository and download it as a ZIP file.
 
-- **Default Workspace Setup**: Quickly generate a default workspace with essential HTML, CSS, and JavaScript files.
-- **Organized Folders**: The extension creates a structured folder layout for CSS, JavaScript, and images.
-- **Placeholder Content**: Each file is pre-populated with placeholder content, making it easy to start coding right away.
+2. **Extract the Files:**
+   - Extract the contents of the ZIP file.
 
-## Installation
+3. **Select a Color Theme:**
+   - Navigate to the `all_themes` folder.
+   - Choose your desired color theme by selecting the corresponding folder.
 
-1. Launch Visual Studio Code.
-2. Go to the Extensions view by clicking the square icon in the sidebar or pressing `Ctrl+Shift+X`.
-3. Search for "QuickHTML".
-4. Click the Install button.
+4. **Copy Files:**
+   - Copy the `index.html`, `loader.js`, and the selected color theme folder.
+
+5. **Paste into Your Website Directory:**
+   - Paste the copied files and folder into your website's project directory.
+
+6. **Update CSS Link:**
+   - Open the `index.html` file in a text editor.
+   - Locate the CSS link in the `<head>` section.
+   - Update the `href` attribute to point to the CSS file within your selected color theme folder.
+
+7. **Integration Complete:**
+   - Save the changes to the `index.html` file.
+
+8. **Test:**
+   - Open the modified `index.html` file in a web browser to ensure the loading screen appears with the selected color theme.
+
 
 ## Usage
 
