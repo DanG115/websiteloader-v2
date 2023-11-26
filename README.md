@@ -8,7 +8,7 @@ A customisable loading screen. Created by using HTML, CSS & JS
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Colours](#colours)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -46,27 +46,13 @@ Create a highly customisable loading screen for your web application by leveragi
    - Open the modified `index.html` file in a web browser to ensure the loading screen appears with the selected colour theme.
 
 
-## Usage
+## Colours
 
-1. Open Visual Studio Code.
-2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS) to open the command palette.
-3. Type "QuickHTML: Create" and select the command.
-4. The extension will create the default workspace structure with files and folders.
-5. Customize the generated files and start building your web project!
-
-## Folder Structure
-
-Your project will have the following folder structure after using the extension:
-
-- `your-project-folder/`
-  - `index.html`
-  - `css/`
-    - `index.css`
-  - `js/`
-    - `index.js`
-  - `images/`
-  - `tab-icon/`
-     - `tab-icon.png`
+- `all_themes`
+  - `blue`
+  - `pink`
+  - `red`
+  - `purple`
 
 ## Contributing
 
