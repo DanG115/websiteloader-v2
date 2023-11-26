@@ -26,10 +26,10 @@ Create a highly customisable loading screen for your web application by leveragi
 
 3. **Select a Color Theme:**
    - Navigate to the `all_themes` folder.
-   - Choose your desired color theme by selecting the corresponding folder.
+   - Choose your desired colour theme by selecting the corresponding folder.
 
 4. **Copy Files:**
-   - Copy the `index.html`, `loader.js`, and the selected color theme folder.
+   - Copy the `index.html`, `loader.js`, and the selected colour theme folder.
 
 5. **Paste into Your Website Directory:**
    - Paste the copied files and folder into your website's project directory.
@@ -37,13 +37,13 @@ Create a highly customisable loading screen for your web application by leveragi
 6. **Update CSS Link:**
    - Open the `index.html` file in a text editor.
    - Locate the CSS link in the `<head>` section.
-   - Update the `href` attribute to point to the CSS file within your selected color theme folder.
+   - Update the `href` attribute to point to the CSS file within your selected colour theme folder.
 
 7. **Integration Complete:**
    - Save the changes to the `index.html` file.
 
 8. **Test:**
-   - Open the modified `index.html` file in a web browser to ensure the loading screen appears with the selected color theme.
+   - Open the modified `index.html` file in a web browser to ensure the loading screen appears with the selected colour theme.
 
 
 ## Usage
