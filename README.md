@@ -2,7 +2,7 @@
 
 A customisable loading screen. Created by using HTML, CSS & JS
 
-![LoadingScreen](https://ibb.co/ynSCS86)
+![LoadingScreen](https://i.ibb.co/4ZdLdj8/image-2023-11-26-231247617.png)
 
 ## Table of Contents
 
